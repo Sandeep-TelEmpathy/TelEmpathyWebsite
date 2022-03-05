@@ -27,7 +27,9 @@ const Header = () => {
                   className="inputbtn"
                   style={{ width: "100%", display: "flex" }}
                 > */}
-                  <Link to="/signin-with-google" href=""><button
+          
+
+      <Link to="/signin-with-google" href=""><button
                     className="input-group-button px-2 py-2 mx-0 mt-4 "
                     style={{ backgroundColor: "#5041BB", color: "white",border:"2px solid #5041BB",borderRadius:"4px",boxShadow: "2px 2px rgba(0.1,0.1,0.1,0.3)"}}
                   >
@@ -40,6 +42,7 @@ const Header = () => {
                   >
                     How to Use?
                   </button></Link>
+
                   
                 {/* </div> */}
                 {/* <div > */}
