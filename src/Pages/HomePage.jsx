@@ -9,8 +9,8 @@ import NewsLetter from '../components/NewsLetter'
 const HomePage = () => {
   return (
     <div>
-        <Navbar/>
-        <Header/>
+<Navbar/>
+                <Header/>
         <Faq/>
         <Association/>
         <NewsLetter/>

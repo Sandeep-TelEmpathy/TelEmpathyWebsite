@@ -24,13 +24,14 @@ const Acc = () => {
           >
             What is TelEmpathy?
           </Typography>
+
         </AccordionSummary>
         <AccordionDetails>
-          <Typography>We are an online therapy platform that provides access to online psychologist consultation at an affordable rate. Our aim is also to educate people regarding Mental Health & Talk Therapy so that before opting for it, they can know exactly what it is, to facilitate this the platform has videos & articles regarding the same so that you can  know more about therapy & mental health in a simple manner.
+          <Typography><strong> We are an online therapy platform that provides access to online psychologist consultation at an affordable rate. Our aim is also to educate people regarding Mental Health & Talk Therapy</strong> so that before opting for it, they can know exactly what it is, to facilitate this the platform has videos & articles regarding the same so that you can  know more about therapy & mental health in a simple manner.
 
-In India, the topic of Mental Health is widely stigmatized & on top of that, there is a lack of awareness among the general public. Most of the people across the country don't even know whom to reach out to, for seeking counseling/therapy & people who know whom to contact generally face the barrier of high consultation fees.
+<strong> In India, the topic of Mental Health is widely stigmatized & on top of that, there is a lack of awareness among the general public.</strong> Most of the people across the country don't even know whom to reach out to, for seeking counseling/therapy & people who know whom to contact generally face the barrier of high consultation fees.
 
-We aim to provide access to online psychologists at an affordable price to the people in cities & villages across India. </Typography>
+<strong> <span style={{fontStyle: 'italic'}}> We  aim to provide access to online psychologists at an affordable price to the people in cities & villages across India.</span></strong></Typography>
         </AccordionDetails>
       </Accordion>
       <Accordion className="Accordionacc" style={{ width:"100%",color:"black",border:"2px solid #D8DDE6",marginBottom:"18px",borderRadius:"4px",padding:"6px 5px"}}>
@@ -47,22 +48,22 @@ We aim to provide access to online psychologists at an affordable price to the p
           </Typography>
         </AccordionSummary>
         <AccordionDetails>
-          <Typography>Psychotherapy (a type of Talk Therapy) will involve you sitting with a psychologist to analyze the source/s of the problem (like a certain life event) which is causing you to have trouble in dealing with a particular situation. It involves you speaking as much as you can about your own life which helps the therapist to understand the source/s of the problem. The process aims at strengthening your self-awareness through which you can navigate your present and future experiences through personal initiative.
+          <Typography><strong> Psychotherapy (a type of Talk Therapy) will involve you sitting with a psychologist to analyze the source/s of the problem (like a certain life event)</strong> which is causing you to have trouble in dealing with a particular situation. It involves you speaking as much as you can about your own life which helps the therapist to understand the source/s of the problem. <strong> The process aims at strengthening your self-awareness through which you can navigate your present and future experiences through personal initiative.</strong><br/>
 
-CBT (Cognitive Behavioral Therapy) is a short-term talk therapy that focuses on changing your feeling regarding a situation so as to approach that particular situation in a better way.
+<strong>CBT (Cognitive Behavioral Therapy) is a short-term talk therapy </strong>that focuses on changing your feeling regarding a situation so as to approach that particular situation in a better way.<br/><br/>
 
 
 
-Some of the Myths about Talk Therapy:
+<span style={{fontWeight: "bold",textDecoration:"underline"}}>Some of the Myths about Talk Therapy:</span><br/>
 
-Only crazy people go to therapy!
-You don’t need to have any major mental issues for going to therapy. Therapy helps you to speak about your experiences & what is bothering you, to a person who would listen to you carefully without any judgments and this would enable you to grow in your life at a personal/professional level by learning to navigate through the issues that were bothering you on a consistent basis.
+<span style={{fontWeight: "bold",fontSize: "22px"}}> Only crazy people go to therapy!</span><br/>
+You don’t need to have any major mental issues for going to therapy. Therapy helps you to speak about your experiences & what is bothering you, to a person who would listen to you carefully without any judgments and this would enable you to grow in your life at a personal/professional level by learning to navigate through the issues that were bothering you on a consistent basis.<br/>
 
-Therapy is for weak people.
+<span style={{fontWeight: "bold",fontSize: "22px"}}>Therapy is for weak people.</span><br/>
 Reaching out to a person for helping you to cope with your issues is a sign of strength & not weakness. If you are opting for therapy, it means that you are willing to change your situation rather than just accepting it & this is a thing that only a strong person can do.
-
-Therapists only listen & they do not speak.
-Talk Therapy is a collaborative process & it requires equal efforts from both sides. Listening helps the therapist to know about your personality and the situations that you have faced which helps the therapist to work together with you to identify the problems & work on them. This process also helps you to develop a mindset which helps you to deal with your issues in a constructive manner that too independently. </Typography>
+<br/>
+<span style={{fontWeight: "bold",fontSize: "22px"}}>Therapists only listen & they do not speak.</span><br/>
+<strong> Talk Therapy is a collaborative process & it requires equal efforts from both sides.</strong> Listening helps the therapist to know about your personality and the situations that you have faced which helps the therapist to work together with you to identify the problems & work on them. <strong> This process also helps you to develop a mindset which helps you to deal with your issues in a constructive manner that too independently.</strong></Typography>
         </AccordionDetails>
       </Accordion>
       <Accordion className="Accordionacc" style={{ width: "100%",color:"black",border:"2px solid #D8DDE6",marginBottom:"18px" ,borderRadius:"4px",padding:"6px 5px"}}>
@@ -79,19 +80,19 @@ Talk Therapy is a collaborative process & it requires equal efforts from both si
           </Typography>
         </AccordionSummary>
         <AccordionDetails>
-          <Typography> As Humans, we face different experiences in different areas of our lives like Relationships, Jobs, Studies, and the list goes on. Some of the experiences in these areas can have an adverse effect on our emotions such that it affects the way in which we perceive & deal with situations & with people who are around us.
+          <Typography><strong> As Humans, we face different experiences in different areas of our lives</strong> like Relationships, Jobs, Studies, and the list goes on.<strong> Some of the experiences in these areas can have an adverse effect on our emotions such that it affects the way in which we perceive & deal with situations & with people who are around us.
 
-Sometimes these effects disappear after a short period of time but there is also a possibility that these effects are causing trouble to you emotionally and mentally on a consistent basis. If you are having/had experiences that are interfering or causing distress in your life, then talk therapy can act as a guide for helping you to navigate through such kinds of situations.
+Sometimes these effects disappear after a short period of time but there is also a possibility that these effects are causing trouble to you emotionally and mentally on a consistent basis.</strong> If you are having/had experiences that are interfering or causing distress in your life, then talk therapy can act as a guide for helping you to navigate through such kinds of situations.
 
-People say that sharing with your family & friends about what you are going through is very useful but sometimes Sharing with your family or even friends about the difficulties that you are facing emotionally becomes tough as there is a high chance of getting a judgmental kind of response from them.
+People say that sharing with your family & friends about what you are going through is very useful but sometimes <strong> Sharing with your family or even friends about the difficulties that you are facing emotionally becomes tough as there is a high chance of getting a judgmental kind of response from them.
 
-What Talk Therapy does is that, it allows you to share all the problems that you are facing without the fear of being judged & the therapist then helps you to learn about the potential origin of that feeling & make you aware of it & how to cope with it in a constructive manner thus, giving you a better knowledge about your feelings which can help you to deal with bad experiences in a better way.
+What Talk Therapy does is that, it allows you to share all the problems that you are facing without the fear of being judged & </strong>the therapist then helps you to learn about the potential origin of that feeling & make you aware of it & how to cope with it in a constructive manner <strong> thus, giving you a better knowledge about your feelings which can help you to deal with bad experiences in a better way.</strong>
 
 Talk Therapy is a support system and not a cure system. It is used to make you more aware of your own emotions/feelings and their potential cause/s such that it enables you to know yourself in a better way.
 
 If you are opting for Talk Therapy, you can't expect the psychologist to just use a Magic Wand to make your troubles disappear, you as an individual also needs to put in equal efforts during the therapy sessions for achieving desired outcomes.
-
-It is completely fine & normal to seek therapy as it helps you to get better at dealing with things that are troubling you.</Typography>
+<strong>
+It is completely fine & normal to seek therapy as it helps you to get better at dealing with things that are troubling you.</strong></Typography>
         </AccordionDetails>
       </Accordion>
       <Accordion className="Accordionacc" style={{ width: "100%",color:"black",border:"2px solid #D8DDE6",marginBottom:"18px",borderRadius:"4px",padding:"6px 5px" }}>
